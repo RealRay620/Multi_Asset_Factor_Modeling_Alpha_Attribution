@@ -8,9 +8,9 @@ The objective of the project was to evaluate the explanatory power of economical
 
 The framework combines statistical factor modeling, machine learning techniques, rolling backtesting, and attribution analysis to study return dynamics across representative assets:
 
-- AAPL — high-beta growth equity exposure
-- AGG — investment-grade bond exposure
-- XOM — commodity and energy-sensitive equity exposure
+- AAPL - high-beta growth equity exposure
+- AGG - investment-grade bond exposure
+- XOM - commodity and energy-sensitive equity exposure
 
 ---
 
